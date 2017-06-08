@@ -1,0 +1,28 @@
+body {
+  margin-top: 60px;
+}
+
+figure {
+  margin-left: 5%; 
+  margin-right: 5%;
+  text-align: center; 
+}
+
+header {
+  padding-bottom: 20px;
+}
+
+#titlename {
+  padding-bottom: 20px;
+  font-size: 500%;
+}
+
+#photocred {
+  padding-top: 5px;
+}
+
+#timeline {
+  margin-left: 15%;
+  margin-right: 15%;
+  padding-top: 20px;
+}
